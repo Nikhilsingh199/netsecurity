@@ -7,4 +7,6 @@ certifi
 pymongo
 ##use the version of pymongo 3.12.3
 scikit-learn
+dill
+pyaml
 ##-e .

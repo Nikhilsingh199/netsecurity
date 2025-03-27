@@ -2,8 +2,9 @@ python-dotenv
 pandas
 numpy
 pymongo
+pymongo[srv]==3.6
 certifi
-
-
+pymongo
+##use the version of pymongo 3.12.3
 
 ##-e .

@@ -5,8 +5,9 @@ pymongo
 pymongo[srv]==3.6
 certifi
 pymongo
-##use the version of pymongo 3.12.3
+##use the version of pymongo 3.12.3 use mlflow too
 scikit-learn
 dill
 pyaml
+##install dagshub
 ##-e .
